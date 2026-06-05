@@ -1,0 +1,76 @@
+﻿element,redox_reactant,reactant_state,reactant_environment,process,redox_product,product_state,product_environment,mobility_effect,mediator,species_reactant_detail,species_product_detail,process_specific
+Fe,Fe(III),oxidized,bulk oxic soil,reduction,Fe(II),reduced,anoxic microsite,increase,microbes,ferrihydrite/goethite,Fe(II) (aq),dissimilatory Fe(III) reduction
+Fe,Fe(III),oxidized,bulk oxic soil,reduction,Fe(II),reduced,anoxic microsite,increase,OM,ferrihydrite/goethite,Fe(II) (aq),dissimilatory Fe(III) reduction
+Fe,Fe(II) ,reduced,anoxic microsite,oxidation,Fe(III),oxidized,bulk oxic soil,decrease,carbonate,(aq),Siderite (FeCO₃),carbonate precipitation
+Fe,Fe(II) ,reduced,anoxic microsite,sulfidation,Fe(II),reduced,anoxic microsite,decrease,sulfide,(aq),FeS (mackinawite/pyrite),sulfidation
+Fe,Fe(II),reduced,anoxic microsite,oxidation,Fe(III),oxidized,bulk oxic soil,decrease,abiotic,(aq),Fe(III) (ferrihydrite/goethite),oxidation by O2
+Mn,Mn(II),reduced,anoxic microsite,oxidation,Mn(IV),oxidized,bulk oxic soil,decrease,microbes,(aq),Mn(IV) oxides (birnessite),oxidation by O2
+Mn,Mn(II),reduced,anoxic microsite,oxidation,Mn(IV),oxidized,bulk oxic soil,decrease,oxygen,(aq),Mn(IV) oxides (birnessite),oxidation by O2
+Mn,Mn(IV),oxidized,bulk oxic soil,reduction,Mn(II),reduced,anoxic microsite,increase,Fe reduction,birnessite,Mn(II)_aq,reductive dissolution
+Mn,Mn(IV),oxidized,bulk oxic soil,reduction,Mn(II),reduced,anoxic microsite,increase,OM,birnessite,Mn(II) (aq),reductive dissolution
+Mn,Mn(IV),oxidized,bulk oxic soil,reduction,Mn(II),reduced,anoxic microsite,increase,microbes,birnessite,Mn(II) (aq),reductive dissolution
+Mn,Mn(IV),oxidized,bulk oxic soil,reduction,Mn(II),reduced,anoxic microsite,increase,sulfide,birnessite,Mn(II) (aq),reductive dissolution
+As,As(III),reduced,anoxic microsite,oxidation,As(V),oxidized,bulk oxic soil,decrease,Mn oxides,arsenite (aq),As(V) (arsenate) sorbed,abiotic oxidation by Mn oxides
+As,As(III),reduced,anoxic microsite,oxidation,As(V),oxidized,bulk oxic soil,decrease,Fe oxides,arsenite (aq),As(V) (arsenate) sorbed,abiotic oxidation by Fe oxides
+As,As(III),reduced,anoxic microsite,oxidation,As(V),oxidized,bulk oxic soil,decrease,oxygen,arsenite (aq),As(V) (arsenate) sorbed,abiotic oxidation by O2
+As,As(V),oxidized,bulk oxic soil,reduction,As(III),reduced,anoxic microsite,increase,microbes,arsenate sorbed,As(III) (arsenite) (aq),dissimilatory As(V) reduction
+As,As(III),reduced,anoxic microsite,sulfidation,As(III),reduced,anoxic microsite,decrease,sulfide,arsenite (aq),As₂S₃ (orpiment),sulfidation/precipitation
+As,As(V),oxidized,bulk oxic soil,reduction,As(III),reduced,anoxic microsite,increase,Fe reduction,arsenate sorbed,As(III) (arsenite) (aq),Fe oxide reduction
+As,As(III),reduced,anoxic microsite,sulfidation,As(III),reduced,anoxic microsite,decrease,Fe sulfidation,As(III)_aq,As(III)_sorbed_FeS_s,adsorption to FeS/FeS2 surfaces
+Sb,Sb(III),reduced,anoxic microsite,oxidation,Sb(V),oxidized,bulk oxic soil,decrease,Fe oxides,(aq),Sb(V) (antimonate) sorbed,oxidation/adsorption
+Sb,Sb(III),reduced,anoxic microsite,oxidation,Sb(V),oxidized,bulk oxic soil,decrease,Mn oxides,(aq),Sb(V) (antimonate) sorbed,oxidation/adsorption
+Sb,Sb(V) ,oxidized,bulk oxic soil,reduction,Sb(III),reduced,anoxic microsite,increase,OM,antimonate sorbed,Sb(III) (aq),reductive dissolution
+Sb,Sb(V),oxidized,bulk oxic soil,reduction,Sb(III),reduced,anoxic microsite,increase,microbes,antimonate sorbed,Sb(III) (aq),reductive dissolution
+Sb,Sb(III),reduced,anoxic microsite,sulfidation,Sb(III),reduced,anoxic microsite,decrease,sulfide,(aq),Sb₂S₃ (stibnite),sulfidation/precipitation
+Cr,Cr(III) ,reduced,anoxic microsite,oxidation,Cr(VI),oxidized,bulk oxic soil,increase,Mn oxides,hydroxide/oxyhydroxide (s),Cr(VI) (chromate) (aq),oxidation (less favored)
+Cr,Cr(III),reduced,anoxic microsite,oxidation,Cr(VI),oxidized,bulk oxic soil,increase,oxygen,hydroxide/oxyhydroxide (s),Cr(VI) (chromate) (aq),oxidation (less favored)
+Cr,Cr(VI) ,oxidized,bulk oxic soil,reduction,Cr(III),reduced,anoxic microsite,decrease,Fe(II),chromate (aq),Cr(III) (hydroxide/oxyhydroxide) (s),reduction
+Cr,Cr(VI),oxidized,bulk oxic soil,reduction,Cr(III),reduced,anoxic microsite,decrease,sulfide,chromate (aq),Cr(III) (hydroxide/oxyhydroxide) (s),reduction
+Cr,Cr(VI),oxidized,bulk oxic soil,reduction,Cr(III),reduced,anoxic microsite,decrease,OM,chromate (aq),Cr(III) (hydroxide/oxyhydroxide) (s),reduction
+Tc,Tc(IV),reduced,anoxic microsite,oxidation,Tc(VII),oxidized,bulk oxic soil,increase,Mn oxides,TcO₂·nH₂O (s),Tc(VII) (TcO₄⁻) (aq),oxidation
+Tc,Tc(IV),reduced,anoxic microsite,oxidation,Tc(VII),oxidized,bulk oxic soil,increase,oxygen,TcO₂·nH₂O (s),Tc(VII) (TcO₄⁻) (aq),oxidation
+Tc,Tc(VII),oxidized,bulk oxic soil,reduction,Tc(IV),reduced,anoxic microsite,decrease,Fe(II),TcO₄⁻ (aq),Tc(IV) (TcO₂·nH₂O) (s),reduction
+Tc,Tc(VII),oxidized,bulk oxic soil,reduction,Tc(IV),reduced,anoxic microsite,decrease,sulfide,TcO₄⁻ (aq),Tc(IV) (TcO₂·nH₂O) (s),reduction
+Tc,Tc(VII),oxidized,bulk oxic soil,reduction,Tc(IV),reduced,anoxic microsite,decrease,microbes,TcO₄⁻ (aq),Tc(IV) (TcO₂·nH₂O) (s),reduction
+Pu,Pu(IV),reduced,anoxic microsite,oxidation,Pu(V) ,moderately oxidized,bulk oxic soil,increase,carbonate,hydroxo/oxide (s/colloid),Pu(V/VI) (aq/complexed),oxidation/complexation
+Pu,Pu(IV),reduced,anoxic microsite,oxidation,Pu(V) ,moderately oxidized,bulk oxic soil,increase,OM,hydroxo/oxide (s/colloid),Pu(V/VI) (aq/complexed),oxidation/complexation
+Pu,Pu(IV),reduced,anoxic microsite,oxidation,Pu(V) ,moderately oxidized,bulk oxic soil,increase,oxygen,hydroxo/oxide (s/colloid),Pu(V/VI) (aq/complexed),oxidation/complexation
+Pu,Pu(IV),reduced,anoxic microsite,oxidation,Pu(VI) ,oxidized,bulk oxic soil,increase,carbonate,hydroxo/oxide (s/colloid),Pu(V/VI) (aq/complexed),oxidation/complexation
+Pu,Pu(IV),reduced,anoxic microsite,oxidation,Pu(VI) ,oxidized,bulk oxic soil,increase,OM,hydroxo/oxide (s/colloid),Pu(V/VI) (aq/complexed),oxidation/complexation
+Pu,Pu(IV),reduced,anoxic microsite,oxidation,Pu(VI) ,oxidized,bulk oxic soil,increase,oxygen,hydroxo/oxide (s/colloid),Pu(V/VI) (aq/complexed),oxidation/complexation
+Pu,Pu(V) ,moderately oxidized,bulk oxic soil,reduction,Pu(IV),reduced,anoxic microsite,decrease,Fe(II),(aq/complexed),Pu(IV) hydroxo/oxide (s/colloid),reduction/aging
+Pu,Pu(V) ,moderately oxidized,bulk oxic soil,reduction,Pu(IV),reduced,anoxic microsite,decrease,sulfide,(aq/complexed),Pu(IV) hydroxo/oxide (s/colloid),reduction/aging
+Pu,Pu(V) ,moderately oxidized,bulk oxic soil,reduction,Pu(IV),reduced,anoxic microsite,decrease,OM,(aq/complexed),Pu(IV) hydroxo/oxide (s/colloid),reduction/aging
+Pu,Pu(VI) ,oxidized,bulk oxic soil,reduction,Pu(IV),reduced,anoxic microsite,decrease,Fe(II),(aq/complexed),Pu(IV) hydroxo/oxide (s/colloid),reduction/aging
+Pu,Pu(VI) ,oxidized,bulk oxic soil,reduction,Pu(IV),reduced,anoxic microsite,decrease,sulfide,(aq/complexed),Pu(IV) hydroxo/oxide (s/colloid),reduction/aging
+Pu,Pu(VI) ,oxidized,bulk oxic soil,reduction,Pu(IV),reduced,anoxic microsite,decrease,OM,(aq/complexed),Pu(IV) hydroxo/oxide (s/colloid),reduction/aging
+U,U(IV),reduced,anoxic microsite,oxidation,U(VI),oxidized,bulk oxic soil,increase,Mn oxides,(UO₂) (s),U(VI)–carbonate complexes (aq),oxidative dissolution
+U,U(IV),reduced,anoxic microsite,oxidation,U(VI),oxidized,bulk oxic soil,increase,microbes,(UO₂) (s),U(VI)–carbonate complexes (aq),oxidative dissolution
+U,U(IV),reduced,anoxic microsite,oxidation,U(VI),oxidized,bulk oxic soil,increase,oxygen,(UO₂) (s),U(VI)–carbonate complexes (aq),oxidative dissolution
+U,U(VI),oxidized,bulk oxic soil,reduction,U(IV),reduced,anoxic microsite,decrease,microbes,carbonate complexes (aq),U(IV) (UO₂) (s),enzymatic reduction
+U,U(VI),oxidized,bulk oxic soil,reduction,U(IV),reduced,anoxic microsite,decrease,Fe(II),carbonate complexes (aq),U(IV) (UO₂) (s),enzymatic reduction
+U,U(VI),oxidized,bulk oxic soil,reduction,U(IV),reduced,anoxic microsite,decrease,sulfide,carbonate complexes (aq),U(IV) (UO₂) (s),enzymatic reduction
+S,S(-II),reduced,anoxic microsite,oxidation,S(VI),oxidized,bulk oxic soil,decrease,oxygen,HS⁻,Sulfate (SO₄²⁻),oxidation by O2
+S,S(-II),reduced,anoxic microsite,oxidation,S(VI),oxidized,bulk oxic soil,decrease,microbes,HS⁻,Sulfate (SO₄²⁻),oxidation by O2
+S,S(-II),reduced,anoxic microsite,oxidation,S(VI),oxidized,bulk oxic soil,decrease,oxygen,H₂S,Sulfate (SO₄²⁻),oxidation by O2
+S,S(-II),reduced,anoxic microsite,oxidation,S(VI),oxidized,bulk oxic soil,decrease,microbes,H₂S,Sulfate (SO₄²⁻),oxidation by O2
+S,S(VI),oxidized,bulk oxic soil,reduction,S(-II),reduced,anoxic microsite,increase,microbes,Sulfate (SO₄²⁻),HS⁻/H₂S,microbial sulfate reduction
+Se,Se(0),moderately reduced,anoxic microsite,oxidation,Se(VI),oxidized,bulk oxic soil,increase,oxygen,(s),Se(VI)/(IV) oxyanions (aq/sorbed),oxidation/dissolution
+Se,Se(0),moderately reduced,anoxic microsite,oxidation,Se(IV),moderately oxidized,bulk oxic soil,increase,oxygen,(s),Se(VI)/(IV) oxyanions (aq/sorbed),oxidation/dissolution
+Se,Se(-II),reduced,anoxic microsite,oxidation,Se(IV),moderately oxidized,bulk oxic soil,increase,Mn oxides,(s),Se(VI)/(IV) oxyanions (aq/sorbed),Mn oxidation/dissolution
+Se,Se(-II),reduced,anoxic microsite,oxidation,Se(IV),moderately oxidized,bulk oxic soil,increase,microbes,(s),Se(VI)/(IV) oxyanions (aq/sorbed),microbial oxidation
+Se,Se(IV),moderately oxidized,bulk oxic soil,reduction,Se(-II),reduced,anoxic microsite,decrease,microbes,(aq/sorbed),selenide,microbial assimilatory reduction
+Se,Se(IV),moderately oxidized,bulk oxic soil,reduction,Se(0),moderately reduced,anoxic microsite,decrease,Fe(II),(aq/sorbed),Se(0) (s),reduction
+Se,Se(IV),moderately oxidized,bulk oxic soil,reduction,Se(-II),reduced,anoxic microsite,decrease,Fe(II),(aq/sorbed),FeSe (s),reduction
+Se,Se(VI),oxidized,bulk oxic soil,reduction,Se(0),moderately reduced,anoxic microsite,decrease,microbes,(aq/sorbed),Se(0) (s),stepwise reduction
+Se,Se(VI),oxidized,bulk oxic soil,reduction,Se(0),moderately reduced,anoxic microsite,decrease,Fe(II),(aq/sorbed),Se(0) (s),stepwise reduction
+Se,Se(VI),oxidized,bulk oxic soil,reduction,Se(0),moderately reduced,anoxic microsite,decrease,microbes,(aq/sorbed),Se(0) (s),stepwise reduction
+Se,Se(VI),oxidized,bulk oxic soil,reduction,Se(0),moderately reduced,anoxic microsite,decrease,Fe(II),(aq/sorbed),Se(0) (s),stepwise reduction
+V,V(IV) ,moderately reduced,anoxic microsite,oxidation,V(V) ,oxidized,bulk oxic soil,increase,oxygen,(sorbed/oxide),V(V) (vanadate) (aq/sorbed),oxidation/desorption
+V,V(III) ,reduced,anoxic microsite,oxidation,V(V) ,oxidized,bulk oxic soil,increase,oxygen,(sorbed/oxide),V(V) (vanadate) (aq/sorbed),oxidation/desorption
+V,V(V) ,oxidized,bulk oxic soil,reduction,V(IV),moderately reduced,anoxic microsite,decrease,Fe(II),(vanadate) (aq/sorbed),V(IV/III) (sorbed/oxide),reduction
+V,V(V) ,oxidized,bulk oxic soil,reduction,V(IV),moderately reduced,anoxic microsite,decrease,sulfide,(vanadate) (aq/sorbed),V(IV/III) (sorbed/oxide),reduction
+V,V(V) ,oxidized,bulk oxic soil,reduction,V(IV),moderately reduced,anoxic microsite,decrease,OM,(vanadate) (aq/sorbed),V(IV/III) (sorbed/oxide),reduction
+V,V(V) ,oxidized,bulk oxic soil,reduction,V(III),reduced,anoxic microsite,decrease,Fe(II),(vanadate) (aq/sorbed),V(IV/III) (sorbed/oxide),reduction
+V,V(V) ,oxidized,bulk oxic soil,reduction,V(III),reduced,anoxic microsite,decrease,sulfide,(vanadate) (aq/sorbed),V(IV/III) (sorbed/oxide),reduction
+V,V(V) ,oxidized,bulk oxic soil,reduction,V(III),reduced,anoxic microsite,decrease,OM,(vanadate) (aq/sorbed),V(IV/III) (sorbed/oxide),reduction
