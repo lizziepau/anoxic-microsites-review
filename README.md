@@ -1,1 +1,1 @@
-Code and data used for Paulus et al. Anoxic microsites shape the distribution and mobility of trace elements in soils and sediments. In prep. The code and data for this project are being held private during peer review and will be released upon publication. 
+Code and data used for Paulus et al. Anoxic microsites shape the distribution and mobility of trace elements in soils and sediments. In prep.
